@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kayser-YapPie
 - 👀 I’m interested in It-sec
-- 🌱 I’m currently learning wifi-sec
+- 🌱 I’m currently learning networks
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
